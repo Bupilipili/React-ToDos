@@ -1,9 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
+  
   <h1><b>Welcome to my project 😃</b></h1>
 
 </div>
@@ -12,7 +10,7 @@
 <div align="center">
   
   <br/>
-<h1 align="center">React to-do app</h1>
+<h1 align="center">react-todos</h1>
 </div>
 
 
@@ -24,7 +22,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[React to-do app\] ](#-react-to-do-app-)
+- [📖 \[react-todos\] ](#-react-todos-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -43,10 +41,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [React to-do app] <a name="about-project"></a>
+# 📖 [react-todos] <a name="about-project"></a>
 
 
-**React to-do app** is a task management application that allows users to create, organize, and track their tasks. Users can add, complete, and delete tasks, providing an efficient and user-friendly experience. React's component-based architecture ensures a responsive interface, making it easy to manage daily tasks and boost productivity.
+**react-todos** is a task management application that allows users to create, organize, and track their tasks. Users can add, complete, and delete tasks, providing an efficient and user-friendly experience. React's component-based architecture ensures a responsive interface, making it easy to manage daily tasks and boost productivity.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -74,28 +72,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- WALKTHROUGH
-
-## 🤯 Walk through video <a name="walk-through"></a>
-
-
-- [here](https://youtu.be/dYmqQRuvd4c)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->
-
-<!-- LIVE DEMO -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](https://salimer.github.io/Math-magicians/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps:
@@ -117,14 +93,14 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Salimer/react-to-do-list.git
+  git clone https://github.com/Bupilipili/react-todos.git
 ```
 
 using Ubuntu:
 
 ```sh
   cd my-desired-folder
-  git clone https://github.com/Salimer/react-to-do-list.git
+  git clone https://github.com/Bupilipili/react-todos.git
 ```
 
 For more information on how to clone or fork a repository:
@@ -159,13 +135,7 @@ To run tests, run the following command:
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Salim Bamahfoodh**
-
-
-- GitHub: [@Salimer](https://github.com/Salimer)
-
-
-
+👤 **Bupilipili**
 
 
 <!-- FUTURE FEATURES -->
@@ -208,26 +178,6 @@ Give a ⭐️ if you like this project!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) 
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
--->
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
